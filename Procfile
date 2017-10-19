@@ -1,1 +1,1 @@
-web: build/install/stringCalcWeb/bin/stringCalcWeb
+web: build/install/CalcApi/bin/CalcApi
